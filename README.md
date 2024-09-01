@@ -2,15 +2,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhcrj&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gabrielhcrj&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhcrj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhcrj&locale=en&hide_title=true&layout=compact&card_width=735&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZtcHNiOHdzdDRvdWRkNTE4bTQ5eHR1cHIzaHVpYW4wYTFqeW5qMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfOdjTchcDEku203WE/giphy.gif"  />
+
 
 ###
 
