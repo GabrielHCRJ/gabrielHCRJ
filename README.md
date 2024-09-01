@@ -1,5 +1,10 @@
-<h2 align="left">Oi!</h2>
+<h1 align="center">Oi 👋, Eu sou o Gabriel Domingues</h1>
+<h3 align="center">Professor de matemática que gosta de programar e contribuir com projetos open source.</h3>
 
+- 🔭 Atualmente trabalhando no projeto [Sample For Science](https://github.com/SampleForScience)
+- 👯 Estou a procura de novos desafios no mundo do desenvolvimento web
+- 🌱 Estudando React/Angular
+- 
 ###
 
 <div align="left">
