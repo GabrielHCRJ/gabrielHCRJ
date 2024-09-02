@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Domingues</h1>
-<h3 align="center">Professor de matemática, desenvolvedor vivendo na interseção entre a educação matemática e a programação</h3>
+<h3 align="center">Professor de matemática, desenvolvedor. Vivendo na interseção entre a educação matemática e a programação</h3>
 
-- 🔭 Atualmente trabalhando no projeto [Sample For Science](https://github.com/SampleForScience)
-- 🧮 Contribuindo com a criação materiais didáticos digitais para o projeto [REDMat UFF](https://gma.uff.br/wordpress/redmat/)
-- 👯 Estou a procura de novos desafios no mundo do desenvolvimento web
+- 🔭 Desenvolvedor Flutter  
+- 🧮 Criador materiais didáticos digitais com Python
+- 👯 A procura de novos desafios no mundo do desenvolvimento web
 - 🌱 Estudando React/Angular
  
 ###
@@ -41,7 +41,21 @@
  <a href='https://www.linkedin.com/in/gabriel-domingues-8936382a0/'> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
+
 ###
+<h2>Projetos</h2>
+
+👩‍🔬 Desenvolvedor Mobile no [Sample For Science](https://sampleforscience.org/)
+<br>
+Projeto open source voltado para o meio ciêntifico ajuda a otimizar o uso de materiais científicos, com o intuito de resolver problemas de subtilização de amostras de projetos de pesquisa. 
+
+🧮 [Projeto REDMat](https://gma.uff.br/wordpress/redmat/): Esse projeto visa desenvolver conteúdo digital para ajudar no processo de ensino-aprendizagem do discente em disciplinas de matemática do ensino médio e graduação. 
+
+🧮 [Funções Trigonométricas](https://redmatuff.github.io/FichasTrigonometricas/FuncaoSeno/): Site desenvolvido com o projeto REDMat criando uma aplicação para avaliar o conhecimento dos alunos das matérias de Pré-Calculo e Calculo I na Universidade Federal Fluminense.
+
+🧮 [Animations Manim](https://github.com/GabrielHCRJ/AnimationsManim/) - Esse projeto é uma coletânea de animações feitas na lib Manim do Python organizados em um único repositório. Criando assim, uma coletânea para professores e educadores utilizarem em sala de aula presenciais ou a distância. 
+
+
 
 <br clear="both">
 
