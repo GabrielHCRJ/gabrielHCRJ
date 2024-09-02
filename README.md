@@ -53,7 +53,7 @@ Projeto open source voltado para o meio ciêntifico ajuda a otimizar o uso de ma
 
 🧮 [Funções Trigonométricas](https://redmatuff.github.io/FichasTrigonometricas/FuncaoSeno/): Site desenvolvido com o projeto REDMat criando uma aplicação para avaliar o conhecimento dos alunos das matérias de Pré-Calculo e Calculo I na Universidade Federal Fluminense.
 
-🧮 [Animations Manim](https://github.com/GabrielHCRJ/AnimationsManim/) - Esse projeto é uma coletânea de animações feitas na lib Manim do Python organizados em um único repositório. Criando assim, uma coletânea para professores e educadores utilizarem em sala de aula presenciais ou a distância. EM DESENVOLVIMENTO
+🧮 [Animations Manim](https://github.com/GabrielHCRJ/AnimationsManim/) - Esse projeto é uma coletânea de animações feitas na lib Manim do Python organizados em um único repositório. Criando assim, uma coletânea para professores e educadores utilizarem em salas de aula presenciais ou a distância. EM DESENVOLVIMENTO
 
 
 
