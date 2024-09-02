@@ -2,7 +2,7 @@
 <h3 align="center">Professor de matemática, desenvolvedor. Vivendo na interseção entre a educação matemática e a programação</h3>
 
 - 🔭 Desenvolvedor Front-end trabalhando com desenvolvimento mobile.
-- 🧮 Criador materiais didáticos digitais com Python
+- 🧮 Desenvolvedor de materiais didáticos digitais com Python para o ensino de matemática
 - 👯 A procura de novos desafios no mundo do desenvolvimento web
 - 🌱 Estudando React/Angular
  
