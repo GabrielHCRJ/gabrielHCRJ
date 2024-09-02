@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Domingues</h1>
 <h3 align="center">Professor de matemática, desenvolvedor. Vivendo na interseção entre a educação matemática e a programação</h3>
 
-- 🔭 Desenvolvedor Flutter  
+- 🔭 Desenvolvedor Front-end trabalhando com mobile.
 - 🧮 Criador materiais didáticos digitais com Python
 - 👯 A procura de novos desafios no mundo do desenvolvimento web
 - 🌱 Estudando React/Angular
