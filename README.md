@@ -47,7 +47,7 @@
 
 👩‍🔬 Desenvolvedor Mobile no [Sample For Science](https://sampleforscience.org/)
 <br>
-Projeto open source voltado para o meio ciêntifico ajuda a otimizar o uso de materiais científicos, com o intuito de resolver problemas de subtilização de amostras de projetos de pesquisa. 
+Projeto open source voltado para o meio ciêntifico ajuda a otimizar o uso de materiais científicos, com o intuito de resolver problemas de subutilização de amostras de projetos de pesquisa. 
 
 🧮 [Projeto REDMat](https://gma.uff.br/wordpress/redmat/): Esse projeto visa desenvolver conteúdo digital para ajudar no processo de ensino-aprendizagem do discente em disciplinas de matemática do ensino médio e graduação. 
 
