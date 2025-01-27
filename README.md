@@ -1,11 +1,12 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Domingues</h1>
-<h3 align="center">Professor de matemática, desenvolvedor. Vivendo na interseção entre a educação matemática e a programação</h3>
 
-- 🔭 Desenvolvedor Front-end trabalhando com desenvolvimento mobile.
-- 🧮 Desenvolvedor de materiais didáticos digitais com Python para o ensino de matemática
-- 👯 A procura de novos desafios no mundo do desenvolvimento web
-- 🌱 Estudando React/Angular
- 
+<h3 align="center">Apaixonado por tecnologia, redes e segurança cibernética. Explorando novas fronteiras na proteção de ambientes digitais</h3>
+
+- 🔭 Atuando na análise e manutenção de redes, conectividade e suporte técnico.  
+- 🛡️ Estudando cibersegurança com foco em Blue Team e defesa cibernética.  
+- 🌱 Aprimorando habilidades em ferramentas como SIEM, Firewalls e IDS/IPS.  
+
+
 ###
 
 <div align="left">
